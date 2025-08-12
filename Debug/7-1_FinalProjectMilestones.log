@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (7-1_FinalProjectMilestones.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ViewManager.cpp
+C:\Users\bthom\OneDrive\Desktop\School\Old Classwork\CS330\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(80,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bthom\OneDrive\Desktop\School\Old Classwork\CS330\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(81,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bthom\OneDrive\Desktop\School\Old Classwork\CS330\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(85,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bthom\OneDrive\Desktop\School\Old Classwork\CS330\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(86,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bthom\OneDrive\Desktop\School\Old Classwork\CS330\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(88,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bthom\OneDrive\Desktop\School\Old Classwork\CS330\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(89,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bthom\OneDrive\Desktop\School\Old Classwork\CS330\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\ViewManager.cpp(126,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\bthom\OneDrive\Desktop\School\Old Classwork\CS330\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\OpenGLProject.exe
